@@ -1,0 +1,241 @@
+
+    .boom {
+background-color: #F3F3F3;
+
+
+}
+
+
+    .panel {
+
+padding: 0px 0px 0px 220px;
+
+background-color: #222222;
+border: 0px solid #000000;
+
+display: flex;
+flex-direction: row;
+
+
+}
+
+    .About, .License, .Privacy {
+color: #DDDDDD;
+margin-right: 15px;
+font-size: 13px;
+justify-content: center;
+
+}
+
+    .About {
+margin-left: 2px;
+
+}
+
+    .head {
+
+padding: 0px 0px 0px 220px;
+
+background-color: #FFFFFF;
+border: 0px solid #000000;
+
+display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+
+    .print, .Elements, .Templates, .Mockups, .Advertise {
+
+color: #222222;
+margin-right: 20px;
+font-size: 18px;
+justify-content: center;
+
+
+}
+
+    .print {
+
+margin-left: 300px;
+
+}
+
+    .Advertise {
+
+color: #FAE83C;
+border: 15px solid #DD3333;
+background-color: #DD3333;
+
+
+}
+
+    .Stolb3 {
+
+display: flex;
+flex-direction: row;
+align-items: start;
+
+}
+
+    .webb, .imgg, .inputt {
+
+padding: 0px 0px 0px 0px;
+
+background-color: #FFFFFF;
+border: 1px solid #000000;
+
+margin-left: 50px;
+margin-bottom: 20px;
+margin-top: 40px;
+
+
+}
+
+    .imgg {
+
+display: flex;
+flex-direction: column;
+
+border: 1px solid #CCCCCC;
+
+}
+
+    .webb {
+
+padding: 18px 18px 18px 18px;
+
+display: flex;
+flex-direction: column;
+
+border: 1px solid #FFFFFF;
+
+}
+
+    .twit, .red, .pshka, .post, .googlee, .sneak {
+
+margin-top: 12px;
+
+
+}
+
+    .inputt {
+
+background-color: #F3F3F3;
+
+padding: 0px 470px 370px 0px;
+border: 0px solid #CCCCCC;
+
+
+}
+
+    .class1, .class2, .class3, .class4 {
+
+margin-top: 60px;
+padding: 18px 18px 18px 18px;
+
+}
+
+    .class1 {
+
+margin-top: 0px;
+
+background-color: #FFFFFF;
+border: 1px solid ##CCCCCC;
+
+
+
+
+}
+
+    .class2 {
+
+
+
+background-color: #FFFFFF;
+border: 1px solid ##CCCCCC;
+
+
+
+display: flex;
+flex-direction: column;
+
+
+
+}
+
+   .Money {
+
+padding: 18px 0px 0px 18px;
+border: 1px solid #CCCCCC;
+
+}
+
+    .search {
+
+margin-top: 15px;
+color: #FFFFFF;
+
+display: flex;
+Justify-content: center;
+align-items: center;
+
+padding: 0px 0px 0px 0px;
+font-size: 16px;
+
+background-color: #D63131;
+border: 1px solid #CCCCCC;
+
+}
+
+    .class3 {
+
+
+
+background-color: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+
+
+display: flex;
+
+Justify-content: center;
+align-items: center;
+
+
+}
+
+    .class4 {
+
+
+background-color: #FFFFFF;
+border: 1px solid #ffffff;
+
+padding: 18px 18px 180px 18px;
+
+display: flex;
+flex-direction: column;
+
+
+}
+
+    .end {
+
+padding: 0px 0px 0px 550px;
+
+background-color: #000000;
+border: 0px solid #FFFFFF;
+
+display: flex;
+flex-direction: row;
+
+margin-top: 40px;
+}
+
+    .Freebies {
+
+color: #FFFFFF;
+
+}
+
